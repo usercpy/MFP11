@@ -4,23 +4,22 @@ using UnityEngine;
 
 public class UImarg : MonoBehaviour {
     private static UImarg inst;
-    public static UImarg Inst {
-        get {
-            if (inst==null) {
-                inst = new UImarg();
-            }
-              return inst;
-        }
-
-    }
-
-	void Awake () {
-    
-      
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
-}
+  dahuahdsdas
+  sdsd
+  asda
+  sda
+  sdasdasdsda
+  
+  
+  
+  dasds
+  dasdssd
+  
+  fge
+  
+  
+  
+  
+  
+  fgef
+  
